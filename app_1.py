@@ -13,7 +13,7 @@ st.set_page_config(
 # Chargement des données
 @st.cache_data
 def load_data():
-  df = pd.read_csv(r"C:\Users\PC\Documents\projet\donnees_pau_idelis.csv")
+  df = pd.read_csv("donnees_pau_idelis.csv")
   df["prix_m2"] = df["prix_vente"] / df["surface_m2"]
   return df
 
