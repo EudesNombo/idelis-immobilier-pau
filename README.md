@@ -1,5 +1,11 @@
 # 🚌 IDELIS — Impact des Transports sur l'Immobilier Palois
 
+> 🚀 **Application en ligne :** [Tester le Dashboard Streamlit](https://eudesnombo-idelis-immobilier-pau-app-1-hyukbr.streamlit.app)
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?logo=streamlit)
+![Plotly](https://img.shields.io/badge/Plotly-6.0+-blue?logo=plotly)
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red?logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-6.0+-blue?logo=plotly)
